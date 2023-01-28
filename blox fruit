@@ -1,0 +1,3 @@
+while true do
+loadstring(game:httpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()day
+end
